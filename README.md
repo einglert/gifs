@@ -1,2 +1,2 @@
 # gifs
-Self made GIF lessons
+This repository was created in order to embed self-made GIFS.
